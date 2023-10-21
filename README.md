@@ -1,5 +1,5 @@
 # Account-Manager
-Basic account manager which stores usernames and passwords.
+Basic account manager which stores usernames and passwords using JSON.
 
 
 
